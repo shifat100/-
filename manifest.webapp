@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Father",
+  "description": "বাবা তোমাকে খুব ভালোবাসি",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/icons/56.png",
+    "112": "/icons/112.png",
+    "128": "/icons/128.png"
+  },
+  "fullscreen": "false",
+  "developer": {
+    "name": "Tripple Three"
+  },
+  "locales": {
+    "bn-BD": {
+      "name": "বাবা",
+      "subtitle": "বাবা আমার জান",
+      "description": "বাবা তোমাকে খুব ভালোবাসি"
+    }
+  },
+  "default_locale": "bn-BD",
+  "cursor": false,
+  "type": "web"
+}
